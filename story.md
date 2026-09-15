@@ -1,0 +1,3 @@
+The Gardener's Repository
+
+She found the laptop at the back of her grandfather's greenhouse, wrapped in a feed sack and buried under forty pounds of dry soil. It still held a charge, which seemed impossible after two winters of frost and neglect. When it woke, it showed one terminal window, a blinking cursor, and the last command anyone had ever typed on it, a single line that began with the word git.
