@@ -1,3 +1,5 @@
 The Gardener's Repository
 
 She found the laptop at the back of her grandfather's greenhouse, wrapped in a feed sack and buried under forty pounds of dry soil. It still held a charge, which seemed impossible after two winters of frost and neglect. When it woke, it showed one terminal window, a blinking cursor, and the last command anyone had ever typed on it, a single line that began with the word git.
+
+The history went back thirty years, and every entry in it was a plant. One of them added a purple tomato of the third generation, which resisted the blight better than the second had. Another repaired the trellis for the pole beans and pointed to a drawing. A third went back to the older squash, because the newer one tasted of nothing at all. Her grandfather had never once mentioned computers in his life, and yet here he was, patient as a monk, tracking the ancestry of every tomato in the valley inside a git repository meant for other people's source code.
